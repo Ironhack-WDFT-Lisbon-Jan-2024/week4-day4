@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Royal Rumble 2008", 
+        "year": 2008, 
+        "location": "New York City", 
+        "id": 1234
+    }, 
+    {
+        "name": "Royal Rumble 2013", 
+        "year": 2013, 
+        "location": "Phoenix, Arizona", 
+        "id": 12345
+    }, 
+    {
+        "name": "WrestleMania 38", 
+        "year": 2022, 
+        "location": "Arlington, Texas", 
+        "id": 123456
+    }
+]
